@@ -23,7 +23,6 @@ public class Draw extends JFrame {
             my_picture.drawLine(337, 248, 337, 300);
             my_picture.drawLine(363, 248, 363, 300);
             my_picture.drawArc(275, 50, 150, 200, 280, 340);
-            //my_picture.drawArc(375, 150, 250, 300, 290, 320);
         }
         public static void main(String[] args) {
             new Draw("Graphics");
